@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\ferna\\desktop\\sistemas operativos\\proyecto final\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:43:11.075Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
