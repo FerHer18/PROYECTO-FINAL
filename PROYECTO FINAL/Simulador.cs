@@ -97,5 +97,11 @@ namespace PROYECTO_FINAL
                 fila.DefaultCellStyle.ForeColor = Color.Aqua;
             }
         }
+
+        private void buttonDetener_Click(object sender, EventArgs e)
+        {
+            simulador.DetenerSimulacion();
+            MessageBox.Show("La simulación ha terminado", "Finalización", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

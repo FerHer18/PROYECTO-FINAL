@@ -34,6 +34,7 @@
             TiempoEjecucion = new DataGridViewTextBoxColumn();
             TiempoRestante = new DataGridViewTextBoxColumn();
             Estado = new DataGridViewTextBoxColumn();
+            buttonDetener = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvProcesos).BeginInit();
             SuspendLayout();
             // 
@@ -49,13 +50,14 @@
             dgvProcesos.Columns.AddRange(new DataGridViewColumn[] { ID, TiempoLlegada, TiempoEjecucion, TiempoRestante, Estado });
             dgvProcesos.Enabled = false;
             dgvProcesos.GridColor = SystemColors.ActiveCaptionText;
-            dgvProcesos.Location = new Point(13, 22);
+            dgvProcesos.Location = new Point(16, 28);
+            dgvProcesos.Margin = new Padding(4);
             dgvProcesos.MultiSelect = false;
             dgvProcesos.Name = "dgvProcesos";
             dgvProcesos.ReadOnly = true;
             dgvProcesos.RowHeadersWidth = 51;
             dgvProcesos.SelectionMode = DataGridViewSelectionMode.CellSelect;
-            dgvProcesos.Size = new Size(1031, 710);
+            dgvProcesos.Size = new Size(1289, 888);
             dgvProcesos.TabIndex = 0;
             dgvProcesos.UseWaitCursor = true;
             dgvProcesos.RowPrePaint += dgvProcesos_RowPrePaint;
@@ -100,13 +102,27 @@
             Estado.ReadOnly = true;
             Estado.Width = 83;
             // 
+            // buttonDetener
+            // 
+            buttonDetener.BackColor = SystemColors.ActiveCaption;
+            buttonDetener.Font = new Font("Heebo", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            buttonDetener.Location = new Point(1362, 307);
+            buttonDetener.Name = "buttonDetener";
+            buttonDetener.Size = new Size(230, 34);
+            buttonDetener.TabIndex = 1;
+            buttonDetener.Text = "Terminar simulación";
+            buttonDetener.UseVisualStyleBackColor = false;
+            buttonDetener.Click += buttonDetener_Click;
+            // 
             // Simulador
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(1313, 774);
+            ClientSize = new Size(1641, 968);
+            Controls.Add(buttonDetener);
             Controls.Add(dgvProcesos);
+            Margin = new Padding(4);
             Name = "Simulador";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Simulador";
@@ -123,5 +139,6 @@
         private DataGridViewTextBoxColumn TiempoEjecucion;
         private DataGridViewTextBoxColumn TiempoRestante;
         private DataGridViewTextBoxColumn Estado;
+        private Button buttonDetener;
     }
 }
