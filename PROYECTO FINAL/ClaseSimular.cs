@@ -12,6 +12,7 @@ namespace PROYECTO_FINAL
         private int quantum;
         private int tiempoSimulacion;
         private int idProceso;
+        private bool simulacionActiva;
         public int MemoriaTotal { get; private set; }
         private ClaseMemoria memoria;
         private Queue<ClaseProceso> colaProcesos;
@@ -28,6 +29,7 @@ namespace PROYECTO_FINAL
             procesosFinalizados = new List<ClaseProceso>();
             tiempoSimulacion = 0;
             idProceso = 1;
+            simulacionActiva = true;
         }
 
         public void GenerarProceso()
@@ -45,7 +47,7 @@ namespace PROYECTO_FINAL
 
         public void EjecutarSimulacion()
         {
-            while (true)
+            while (simulacionActiva)
             {
                 GenerarProceso();
                 ClaseProceso procesoActual = null;
@@ -102,6 +104,11 @@ namespace PROYECTO_FINAL
                 return;
 
             nodo.Libre = true;
+        }
+
+        public void DetenerSimulacion()
+        {
+            simulacionActiva = false;  // Detiene el ciclo en EjecutarSimulacion
         }
     }
 }
