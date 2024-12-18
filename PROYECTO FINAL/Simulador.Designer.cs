@@ -58,6 +58,7 @@
             dgvProcesos.Size = new Size(889, 710);
             dgvProcesos.TabIndex = 0;
             dgvProcesos.UseWaitCursor = true;
+            dgvProcesos.RowPrePaint += dgvProcesos_RowPrePaint;
             // 
             // ID
             // 
