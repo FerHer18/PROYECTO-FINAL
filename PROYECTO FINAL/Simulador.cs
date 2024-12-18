@@ -65,12 +65,6 @@ namespace PROYECTO_FINAL
             dgvProcesos.Columns["TiempoRestante"].DefaultCellStyle.BackColor = Color.Black;
             dgvProcesos.Columns["Estado"].DefaultCellStyle.BackColor = Color.Black;
 
-            dgvProcesos.Columns["ID"].DefaultCellStyle.ForeColor = Color.White;
-            dgvProcesos.Columns["TiempoLlegada"].DefaultCellStyle.ForeColor = Color.White;
-            dgvProcesos.Columns["TiempoEjecucion"].DefaultCellStyle.ForeColor = Color.White;
-            dgvProcesos.Columns["TiempoRestante"].DefaultCellStyle.ForeColor = Color.White;
-            dgvProcesos.Columns["Estado"].DefaultCellStyle.ForeColor = Color.White;
-
             // Encabezados de columnas
             dgvProcesos.ColumnHeadersDefaultCellStyle.BackColor = Color.Black;
             dgvProcesos.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
@@ -79,10 +73,29 @@ namespace PROYECTO_FINAL
 
             // Encabezados de filas
             dgvProcesos.RowHeadersDefaultCellStyle.BackColor = Color.Black;
-            dgvProcesos.RowHeadersDefaultCellStyle.ForeColor = Color.White; 
+            dgvProcesos.RowHeadersDefaultCellStyle.ForeColor = Color.White;
             dgvProcesos.RowHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
 
 
+        }
+
+        private void dgvProcesos_RowPrePaint(object sender, DataGridViewRowPrePaintEventArgs e)
+        {
+            var fila = dgvProcesos.Rows[e.RowIndex];
+            var estado = fila.Cells["Estado"].Value?.ToString();
+
+            if (estado == "Ejecución")
+            {
+                fila.DefaultCellStyle.ForeColor = Color.Green;
+            }
+            else if (estado == "Finalizado")
+            {
+                fila.DefaultCellStyle.ForeColor = Color.HotPink;
+            }
+            else if (estado == "Listo")
+            {
+                fila.DefaultCellStyle.ForeColor = Color.Aqua;
+            }
         }
     }
 }
