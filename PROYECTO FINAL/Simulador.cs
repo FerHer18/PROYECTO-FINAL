@@ -102,6 +102,10 @@ namespace PROYECTO_FINAL
         {
             simulador.DetenerSimulacion();
             MessageBox.Show("La simulación ha terminado", "Finalización", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            var estadisticas = simulador.ObtenerEstadisticas();
+            Form2 f2 = new Form2(estadisticas);
+            this.Hide();
+            f2.ShowDialog();
         }
     }
 }

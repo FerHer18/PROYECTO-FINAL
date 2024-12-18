@@ -17,6 +17,7 @@ namespace PROYECTO_FINAL
         private ClaseMemoria memoria;
         private Queue<ClaseProceso> colaProcesos;
         private List<ClaseProceso> procesosFinalizados;
+        private ClassEstadisticas estadisticas;
 
         public event Action<List<ClaseProceso>, ClaseProceso, List<ClaseProceso>> ActualizarTabla;
 
@@ -30,6 +31,7 @@ namespace PROYECTO_FINAL
             tiempoSimulacion = 0;
             idProceso = 1;
             simulacionActiva = true;
+            estadisticas = new ClassEstadisticas(memoriaTotal);
         }
 
         public void GenerarProceso()
@@ -104,11 +106,41 @@ namespace PROYECTO_FINAL
                 return;
 
             nodo.Libre = true;
+            nodo.Coalescer();
+            estadisticas.RegistrarUsoMemoria(CalcularMemoriaEnUso());
         }
 
         public void DetenerSimulacion()
         {
             simulacionActiva = false;  // Detiene el ciclo en EjecutarSimulacion
+        }
+
+        public ClassEstadisticas ObtenerEstadisticas()
+        {
+            estadisticas.CalcularEstadisticas(
+                colaProcesos.Count + procesosFinalizados.Count,
+                procesosFinalizados.Count,
+                colaProcesos.Count
+            );
+            return estadisticas;
+        }
+
+        private int CalcularMemoriaEnUso()
+        {
+            int memoriaUsada = 0;
+
+            void CalcularUsoRecursivo(ClaseMemoria nodo)
+            {
+                if (nodo == null) return;
+
+                if (!nodo.Libre) memoriaUsada += nodo.Tamanio;
+
+                CalcularUsoRecursivo(nodo.Izquierda);
+                CalcularUsoRecursivo(nodo.Derecha);
+            }
+
+            CalcularUsoRecursivo(memoria);
+            return memoriaUsada;
         }
     }
 }
