@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\",
+  "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\rosa lizeth\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\rosa lizeth\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\rosa lizeth\\proyecto-final\\proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\classestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\classestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\rosa lizeth\\proyecto-final\\proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\rosa lizeth\\proyecto-final\\proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\vanes\\desktop\\zzb\\proyecto-final\\proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,91 +50,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassEstadisticas.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClassEstadisticas.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ClassEstadisticas.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClassEstadisticas.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ClassEstadisticas.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:36:05.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form2.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Form2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:33:53.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form2.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs [Design]",
+              "RelativeToolTip": "PROYECTO FINAL\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:33:50.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Simulador.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAD4v2sAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwG0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T22:44:24.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ClaseSimular.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseSimular.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
               "RelativeToolTip": "PROYECTO FINAL\\ClaseSimular.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowG8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwIUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T22:38:40.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T22:38:40.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ClaseMemoria.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseMemoria.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
               "RelativeToolTip": "PROYECTO FINAL\\ClaseMemoria.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T22:20:59.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClaseProceso.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseProceso.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
               "RelativeToolTip": "PROYECTO FINAL\\ClaseProceso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T22:13:47.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs [Design]",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T20:43:11.075Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Simulador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "DocumentIndex": 4,
+              "Title": "Simulador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs [Design]",
+              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T21:41:19.178Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-17T21:41:19.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rosa Lizeth\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeToolTip": "PROYECTO FINAL\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T21:39:46.975Z",
               "EditorCaption": ""
