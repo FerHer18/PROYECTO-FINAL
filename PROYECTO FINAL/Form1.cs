@@ -6,5 +6,13 @@ namespace PROYECTO_FINAL
         {
             InitializeComponent();
         }
+
+        private void btnIniciar_Click(object sender, EventArgs e)
+        {
+            Simulador obj = new Simulador();
+            this.Hide();
+            obj.ShowDialog();
+            this.Close();
+        }
     }
 }

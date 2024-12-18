@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\",
+  "WorkspaceRootPath": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\ferna\\desktop\\sistemas operativos\\proyecto final\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasememoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\claseproceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,24 +49,93 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulador.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:44:24.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ClaseSimular.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseSimular.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ClaseSimular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:38:40.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaseMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseMemoria.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseMemoria.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ClaseMemoria.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:20:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaseProceso.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseProceso.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseProceso.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\ClaseProceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:13:47.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
-              "ToolTip": "C:\\Users\\ferna\\Desktop\\SISTEMAS OPERATIVOS\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T20:43:11.075Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:41:19.178Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
+              "RelativeToolTip": "PROYECTO FINAL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:39:46.975Z",
+              "EditorCaption": ""
             }
           ]
         }
