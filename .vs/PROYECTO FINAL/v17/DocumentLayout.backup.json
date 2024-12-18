@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Simulador.cs",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
               "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs*",
               "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAADgv14AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T22:44:24.569Z",
               "EditorCaption": ""
@@ -106,12 +106,11 @@
               "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PROYECTO FINAL\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T20:43:11.075Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-17T20:43:11.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Simulador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",

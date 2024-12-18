@@ -55,18 +55,18 @@
             dgvProcesos.ReadOnly = true;
             dgvProcesos.RowHeadersWidth = 51;
             dgvProcesos.SelectionMode = DataGridViewSelectionMode.CellSelect;
-            dgvProcesos.Size = new Size(889, 710);
+            dgvProcesos.Size = new Size(1031, 710);
             dgvProcesos.TabIndex = 0;
             dgvProcesos.UseWaitCursor = true;
             dgvProcesos.RowPrePaint += dgvProcesos_RowPrePaint;
             // 
             // ID
             // 
-            ID.HeaderText = "ID";
+            ID.HeaderText = "Numero de Proceso";
             ID.MinimumWidth = 6;
             ID.Name = "ID";
             ID.ReadOnly = true;
-            ID.Width = 53;
+            ID.Width = 250;
             // 
             // TiempoLlegada
             // 
