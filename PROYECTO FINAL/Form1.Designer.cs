@@ -28,12 +28,42 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            btnIniciar = new Button();
+            SuspendLayout();
+            // 
+            // btnIniciar
+            // 
+            btnIniciar.BackColor = Color.Transparent;
+            btnIniciar.FlatAppearance.BorderSize = 0;
+            btnIniciar.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            btnIniciar.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            btnIniciar.FlatStyle = FlatStyle.Flat;
+            btnIniciar.Location = new Point(1033, 634);
+            btnIniciar.Margin = new Padding(2);
+            btnIniciar.Name = "btnIniciar";
+            btnIniciar.Size = new Size(241, 104);
+            btnIniciar.TabIndex = 34;
+            btnIniciar.UseVisualStyleBackColor = false;
+            btnIniciar.Click += btnIniciar_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Control;
+            BackgroundImage = Properties.Resources.fondo_portada1;
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(1313, 774);
+            Controls.Add(btnIniciar);
+            DoubleBuffered = true;
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btnIniciar;
     }
 }

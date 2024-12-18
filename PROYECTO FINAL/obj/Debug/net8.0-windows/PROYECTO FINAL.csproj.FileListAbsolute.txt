@@ -1,0 +1,19 @@
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.exe
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.deps.json
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.runtimeconfig.json
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.dll
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.pdb
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Form1.resources
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Simulador.resources
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.AssemblyInfoInputs.cache
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.AssemblyInfo.cs
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.sourcelink.json
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.dll
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\refint\PROYECTO FINAL.dll
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.pdb
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.genruntimeconfig.cache
+C:\Users\Valeria Bernal\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\ref\PROYECTO FINAL.dll
