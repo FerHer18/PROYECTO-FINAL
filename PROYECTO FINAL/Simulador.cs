@@ -50,6 +50,8 @@ namespace PROYECTO_FINAL
                     {
                         dgvProcesos.Rows.Add(p.Id, p.TiempoLlegada, p.TiempoEjecucion, 0, "Finalizado");
                     }
+
+                    DibujarMemoria();
                 }));
             }
         }
@@ -137,6 +139,32 @@ namespace PROYECTO_FINAL
         {
             simulador.SetVelocidad(50);
             MessageBox.Show("Velocidad configurada a Rápido :)");
+        }
+        private void DibujarMemoria()
+        {
+            pnlMemoria.Controls.Clear(); // Limpiar contenido previo
+
+            var estadoMemoria = simulador.ObtenerEstadoMemoria(); // Método que obtiene bloques de memoria
+            int y = 0; // Posición vertical inicial
+
+            foreach (var bloque in estadoMemoria)
+            {
+                // Crear un bloque visual (ejemplo: Label)
+                Label lblBloque = new Label
+                {
+                    Text = $"Tamaño: {bloque.Tamanio} - {(bloque.Libre ? "Libre" : "Ocupado")}",
+                    AutoSize = false,
+                    Size = new Size(pnlMemoria.Width - 20, 30), // Ajusta el ancho y alto
+                    Location = new Point(10, y),
+                    BorderStyle = BorderStyle.FixedSingle,
+                    BackColor = bloque.Libre ? Color.LightGreen : Color.OrangeRed,
+                    ForeColor = Color.Black,
+                    TextAlign = ContentAlignment.MiddleCenter
+                };
+
+                pnlMemoria.Controls.Add(lblBloque); // Agregar al panel
+                y += 35; // Incrementar posición vertical para el siguiente bloque
+            }
         }
     }
 }

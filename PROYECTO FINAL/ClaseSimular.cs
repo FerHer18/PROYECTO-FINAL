@@ -154,5 +154,22 @@ namespace PROYECTO_FINAL
             CalcularUsoRecursivo(memoria);
             return memoriaUsada;
         }
+
+        public List<(int Tamanio, bool Libre)> ObtenerEstadoMemoria()
+        {
+            var bloques = new List<(int Tamanio, bool Libre)>();
+
+            void ObtenerBloques(ClaseMemoria nodo)
+            {
+                if (nodo == null) return;
+
+                bloques.Add((nodo.Tamanio, nodo.Libre));
+                ObtenerBloques(nodo.Izquierda);
+                ObtenerBloques(nodo.Derecha);
+            }
+
+            ObtenerBloques(memoria);
+            return bloques;
+        }
     }
 }
