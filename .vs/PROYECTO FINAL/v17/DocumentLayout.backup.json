@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\clasesimular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|solutionrelative:proyecto final\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9642B2E9-232F-4E2E-B2C7-829177135E09}|PROYECTO FINAL\\PROYECTO FINAL.csproj|c:\\users\\valeria bernal\\proyecto-final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,44 +63,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form2.cs",
               "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "PROYECTO FINAL\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:33:50.605Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-18T21:33:50.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Simulador.cs",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
-              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
-              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCMAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs*",
+              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T22:44:24.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ClaseSimular.cs",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\ClaseSimular.cs",
               "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\ClaseSimular.cs",
               "RelativeToolTip": "PROYECTO FINAL\\ClaseSimular.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowGoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwKwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T22:38:40.382Z"
+              "WhenOpened": "2024-12-17T22:38:40.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Form1.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Form1.cs",
@@ -112,12 +112,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Simulador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs",
               "RelativeDocumentMoniker": "PROYECTO FINAL\\Simulador.cs",
-              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Valeria Bernal\\PROYECTO-FINAL\\PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PROYECTO FINAL\\Simulador.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T21:41:19.178Z",
               "EditorCaption": " [Dise\u00F1o]"
