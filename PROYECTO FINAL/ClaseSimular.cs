@@ -13,6 +13,7 @@ namespace PROYECTO_FINAL
         private int tiempoSimulacion;
         private int idProceso;
         private bool simulacionActiva;
+        private int velocidad;
         public int MemoriaTotal { get; private set; }
         private ClaseMemoria memoria;
         private Queue<ClaseProceso> colaProcesos;
@@ -76,7 +77,7 @@ namespace PROYECTO_FINAL
 
                 ActualizarTabla?.Invoke(new List<ClaseProceso>(colaProcesos), procesoActual, new List<ClaseProceso>(procesosFinalizados));
                 tiempoSimulacion++;
-                System.Threading.Thread.Sleep(500); // Simular tiempo
+                System.Threading.Thread.Sleep(VelocidadSimulacion); // Simular tiempo
             }
         }
 
@@ -98,6 +99,17 @@ namespace PROYECTO_FINAL
             }
 
             return AsignarMemoria(nodo.Izquierda, tamanio) || AsignarMemoria(nodo.Derecha, tamanio);
+        }
+
+        public int VelocidadSimulacion
+        {
+            get { return velocidad; }
+            set { velocidad = 1000; }
+        }
+
+        public void SetVelocidad(int velocidad)
+        {
+            this.velocidad = velocidad; 
         }
 
         private void LiberarBloque(ClaseMemoria nodo, int tamanio)

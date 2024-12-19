@@ -56,3 +56,23 @@ C:\Users\vanes\Desktop\zzb\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-window
 C:\Users\vanes\Desktop\zzb\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.genruntimeconfig.cache
 C:\Users\vanes\Desktop\zzb\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\ref\PROYECTO FINAL.dll
 C:\Users\vanes\Desktop\zzb\PROYECTO-FINAL\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Form2.resources
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Form1.resources
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Form2.resources
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Properties.Resources.resources
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO_FINAL.Simulador.resources
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.csproj.GenerateResource.cache
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.AssemblyInfoInputs.cache
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.AssemblyInfo.cs
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.sourcelink.json
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.dll
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\refint\PROYECTO FINAL.dll
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.pdb
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.exe
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.deps.json
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.runtimeconfig.json
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.dll
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\bin\Debug\net8.0-windows\PROYECTO FINAL.pdb
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\PROYECTO FINAL.genruntimeconfig.cache
+D:\CLONACION SISTEMAS 4\PROYECTO FINAL\obj\Debug\net8.0-windows\ref\PROYECTO FINAL.dll

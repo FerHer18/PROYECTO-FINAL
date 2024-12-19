@@ -14,18 +14,19 @@ namespace PROYECTO_FINAL
     public partial class Simulador : Form
     {
         private ClaseSimular simulador;
+
+        private bool simulacion;
         public Simulador()
         {
             InitializeComponent();
             simulador = new ClaseSimular(1024, 4); // 1 MB, Quantum 4
             simulador.ActualizarTabla += ActualizarVista;
+            simulacion = false;
             PersonalizarTabla();
         }
 
         private void Simulador_Load(object sender, EventArgs e)
         {
-            var task = new System.Threading.Tasks.Task(() => simulador.EjecutarSimulacion());
-            task.Start();
         }
 
         private void ActualizarVista(List<ClaseProceso> cola, ClaseProceso actual, List<ClaseProceso> finalizados)
@@ -106,6 +107,36 @@ namespace PROYECTO_FINAL
             Form2 f2 = new Form2(estadisticas);
             this.Hide();
             f2.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (simulador.VelocidadSimulacion == 0)
+            {
+                MessageBox.Show("Hola, te recuerdo que debes seleccionar una velocidad de simulacion :)");
+                return;
+            }
+
+            simulacion = true;
+            Task.Run(() => simulador.EjecutarSimulacion());
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            simulador.SetVelocidad(2000);
+            MessageBox.Show("Velocidad configurada a Lento :)");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            simulador.SetVelocidad(500);
+            MessageBox.Show("Velocidad configurada a Medio :)");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            simulador.SetVelocidad(50);
+            MessageBox.Show("Velocidad configurada a Rápido :)");
         }
     }
 }
