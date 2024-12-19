@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {}
+    "D:\\CLONACION SISTEMAS 4\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {
+    "D:\\CLONACION SISTEMAS 4\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
+        "projectUniqueName": "D:\\CLONACION SISTEMAS 4\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
         "projectName": "PROYECTO FINAL",
-        "projectPath": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
-        "packagesPath": "C:\\Users\\vanes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanes\\Desktop\\zzb\\PROYECTO-FINAL\\PROYECTO FINAL\\obj\\",
+        "projectPath": "D:\\CLONACION SISTEMAS 4\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "D:\\CLONACION SISTEMAS 4\\PROYECTO FINAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vanes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
