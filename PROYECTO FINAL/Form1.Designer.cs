@@ -51,7 +51,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
-            BackgroundImage = Properties.Resources.fondo_portada1;
+            BackgroundImage = Properties.Resources.fondo_portada2;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1313, 774);
             Controls.Add(btnIniciar);
